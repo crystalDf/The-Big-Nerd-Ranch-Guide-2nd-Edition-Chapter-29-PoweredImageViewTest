@@ -14,7 +14,7 @@
         android:id="@+id/powered_image_view_gif"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:auto_play="true"
+        app:auto_play="false"
         android:src="@drawable/anim"/>
 
     <com.star.poweredimageviewtest.PoweredImageView

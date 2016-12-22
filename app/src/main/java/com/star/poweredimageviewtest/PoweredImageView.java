@@ -149,4 +149,5 @@ public class PoweredImageView extends ImageView {
 
         return false;
     }
+
 }
